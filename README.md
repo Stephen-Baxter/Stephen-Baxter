@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello
+
+<br> Mainname: Stephen Baxter
+<br> Nickname: Jak E Chronicle / Jak E C. / Jak
+<br><i> (the Nickname is for web-apps for easy web searches, games, and special projects) <i>
+<br>
 
 <!--
 **Stephen-Baxter/Stephen-Baxter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
