@@ -1,4 +1,4 @@
-# Hello welcome to my repositories
+# Hello, welcome to my repositories
 
 Mainname: Stephen Baxter
 <br> Nickname: Jak E Chronicle / Jak E C. / Jak
